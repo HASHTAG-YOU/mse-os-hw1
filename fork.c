@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 			return 0;
 		}
 		else if (pid == 0) {
+			//abd
 			// child
 			printf("child process with pid %d (i: %d) \n", getpid(), i);
 			//
