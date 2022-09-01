@@ -24,6 +24,8 @@ int main(int argc, char *argv[])
 			// parent
 			wait(0);
 		}
+		
+		asdfsafd
 	}
 	return 0;
 }
